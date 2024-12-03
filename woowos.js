@@ -249,5 +249,6 @@
   "6288219606812@s.whatsapp.net",
   "6285718265703@s.whatsapp.net",
   "6285721892755@s.whatsapp.net",
-  "6285811873348@s.whatsapp.net"
+  "6285811873348@s.whatsapp.net",
+  "6283170210531@s.whatsapp.net"
 ]
